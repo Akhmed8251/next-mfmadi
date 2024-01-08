@@ -1,0 +1,24 @@
+{
+  "name": "mfmadi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-hookz/web": "^24.0.2",
+    "axios": "^1.6.3",
+    "ckeditor4-react": "^5.0.0",
+    "https": "^1.0.0",
+    "next": "^14.0.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.49.2",
+    "react-select": "^5.8.0",
+    "swiper": "^11.0.5",
+    "uuid": "^9.0.1"
+  }
+}
